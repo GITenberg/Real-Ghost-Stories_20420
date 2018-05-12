@@ -1,0 +1,33 @@
+_repo: Real-Ghost-Stories_20420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stead, W. T. (William Thomas)
+    alias: Stead, William Thomas
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '9288'
+    url: http://www.gutenberg.org/2009/agents/9288
+    wikipedia: http://en.wikipedia.org/wiki/William_Thomas_Stead
+  editor:
+    agent_name: Stead, Estelle W. (Estelle Wilson)
+    alias: Stead, Estelle Wilson
+    gutenberg_agent_id: '9289'
+    url: http://www.gutenberg.org/2009/agents/9289
+description: ''
+gutenberg_issued: '2007-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcc 'BF'
+title: Real Ghost Stories
+url: http://www.gutenberg.org/ebooks/20420
